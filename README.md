@@ -1,14 +1,16 @@
 # supermarket
 capstone_2_supermarket_Hilda
 
-**1. Case Study**
+# **1. Case Study** 
+<br>
 Sebuah supermarket telah melaksanakan total enam kampanye pemasaran selama tiga tahun terakhir. Untuk meningkatkan tingkat jumlah sales perusahaan melalui kampanye yang efektif, perusahaan bermaksud untuk menganalisis kampanye yang telah dilaksanakan berdasarkan prinsip segmentasi, posisi, dan penargetan. Analisis ini diharapkan akan membantu tim pemasaran dalam merumuskan strategi bisnis yang tepat.
 
 Segmentasi melibatkan pembagian basis pelanggan menjadi kelompok-kelompok yang berbeda berdasarkan karakteristik khusus, seperti demografi, perilaku, atau preferensi. Posisi berhubungan dengan cara perusahaan menyajikan produk atau layanan dalam pasar, mempertimbangkan faktor-faktor seperti harga, kualitas, dan citra merek. Penargetan adalah proses mengidentifikasi segmen pelanggan yang paling relevan dan menyesuaikan upaya pemasaran untuk mencapai dan melibatkan segmen tersebut dengan efektif.
 
 Dengan menganalisis kampanye-kampanye terdahulu melalui sudut pandang ini, perusahaan bertujuan untuk mendapatkan wawasan tentang apa yang paling berhasil dan memahami segmen pelanggan mana yang paling responsif. Wawasan ini akan membantu tim pemasaran menciptakan kampanye yang lebih terarah dan sukses di masa depan, yang pada akhirnya akan berkontribusi pada pertumbuhan bisnis.
 
-**2. Problem Statement**
+# **2. Problem Statement**
+<br>
 Sebagai seorang analis data, kita akan mencoba menjawab pertanyaan berikut:
 
 Perusahaan ingin mengetahui, dari kampanye-kampanye yang telah dilaksanakan dari 1 hingga 6, kampanye mana yang paling sukses, dan faktor-faktor apa yang memengaruhi kesuksesan kampanye-kampanye tersebut sehingga mereka dapat mengembangkan strategi pemasaran berikutnya yang berkontribusi pada peningkatan sales?
@@ -22,7 +24,7 @@ untuk menjawab pertanyaan tersebut maka perlu mengindentifikasi hal ini:
 5. Campaign terbaik, bagaimana perilaku konsumen terhadap diskon?
 
 # **Data Explanation**
-
+<br>
 **People**
 -   ID: Customer's unique identifier
 -   Year_Birth: Customer's birth year
